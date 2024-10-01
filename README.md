@@ -11,7 +11,7 @@ git clone https://github.com/anhnd012/shorten_url_server.git
 Navigate to the Rails API directory and install the required gems
 
 ```linux
-cd shorten_url_server
+cd <your-rails-api-directory>
 bundle install
 ```
 ## c) Configure Database
