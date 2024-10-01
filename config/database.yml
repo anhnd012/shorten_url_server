@@ -25,6 +25,6 @@ test:
 
 production:
   <<: *default
-  database: shortenUrlsProduction
-  username: shortenUrls
+  database: shorten_urls_production
+  username: shorten_urls
   password: <%= ENV['SHORTEN_URLS_DATABASE_PASSWORD'] %>
