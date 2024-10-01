@@ -2,7 +2,7 @@
 # 1. Setting Up Your Local Environment
 
 ## a) Clone the Repositories
-Make sure you have cloned both the Rails API repository to your local machine.
+Make sure you have cloned the Rails API repository to your local machine.
 
 ```bash
 git clone https://github.com/anhnd012/shorten_url_server.git
